@@ -4,7 +4,7 @@ Here are some banners for your Github profile page. Github has a somewhat secret
 
 Here is an example:
 
-<img alt="Sample Github profile page, https://github.com/emanlove, with customization"> src="https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/sample-github-profile-page-emanlove.png">
+<img alt="Sample Github profile page, https://github.com/emanlove, with customization" src="https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/sample-github-profile-page-emanlove.png">
 
 Note, the repository name must match the acount name ("emanlove" for my account)and not the displayed name (which is "Ed Manlove" on my profile). Next, it must be a markdown extension, as in README._md_, and not some other markup language.
 

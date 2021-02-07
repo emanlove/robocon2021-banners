@@ -2,7 +2,7 @@
 
 Here are some banners for your social media sites to help spread the word and give some love to the upcoming Robot Framework Coference: RoboCon2021!
 
-[![](./doc/assets/img/Twitter social icons - circle - blue.png)](#)[Twitter](./twitter/README.md)
+[![](./doc/assets/img/Twitter social icons - circle - blue.png)](#) [Twitter](./twitter/README.md)
 
 <img alt="Facebook" src="./doc/assets/img/f_logo_RGB-Blue_58.png">[Facebook](./facebook/README.md)
 

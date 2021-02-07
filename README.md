@@ -6,6 +6,6 @@ If you have a social media account that is not here but want an image for that s
 
 ### About RoboCon2021
 
-16-18 Mar. 2021
+RoboCon is the Annual Robot Framework Conference. Due to the global Covid19 Pandemic this year will be online from 16-18 Mar. 2021. It is a great opprotunity to meet with other Robot Framework Users and Experts.
 
 Visit [robocon.io](https://robocon.io/) for more information or to sign up.

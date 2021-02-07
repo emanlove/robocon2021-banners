@@ -1,12 +1,12 @@
 ## RoboCon2021 Banners for Github
 
-Here are some banners for your Github profile page. Github has a somewhat secret, or at last not widely know, profile page customization. If your account has a repository as the same name as the account, its README.md will display on the profile page of the account.
+Here are some banners for your Github profile page. Github has a somewhat secret, or at least not widely know, profile page customization. If your account has a repository as the same name as the account, its README.md will display on the profile page of the account.
 
 Here is an example:
 
 <img alt="Sample Github profile page, https://github.com/emanlove, with customization" src="https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/sample-github-profile-page-emanlove.png">
 
-Note, the repository name must match the acount name ("emanlove" for my account)and not the displayed name (which is "Ed Manlove" on my profile). Next, it must be a markdown extension, as in README._md_, and not some other markup language.
+Note, the repository name must match the acount name ("emanlove" for my account) and not the displayed name (which is "Ed Manlove" on my profile). Next, it must be a markdown extension, as in README.*md*, and not some other markup language.
 
 For my profile page I have a simple README.md file with just the image link.
 

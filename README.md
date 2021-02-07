@@ -2,13 +2,13 @@
 
 Here are some banners for your social media sites to help spread the word and give some love to the upcoming Robot Framework Coference: RoboCon2021!
 
-## [Twitter](./twitter/README.md) <a href="./twitter/README.md"><img src="https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/Twitter%20social%20icons%20-%20circle%20-%20blue.png)" width="35px" height="35px"/></a>
+## [Twitter](https://github.com/emanlove/robocon2021-banners/tree/master/twitter#robocon2021-banners-for-twitter) <a href="https://github.com/emanlove/robocon2021-banners/tree/master/twitter#robocon2021-banners-for-twitter"><img src="https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/Twitter%20social%20icons%20-%20circle%20-%20blue.png" width="35px" height="35px"/></a>
 
-## [Facebook](./facebook/README.md) <a href="https://github.com/emanlove/robocon2021-banners/tree/master/facebook#robocon2021-banners-for-facebook"><img alt="Facebook" src="./doc/assets/img/f_logo_RGB-Blue_58.png" width="35px" height="35px" /></a>
+## [Facebook](https://github.com/emanlove/robocon2021-banners/tree/master/facebook#robocon2021-banners-for-facebook) <a href="https://github.com/emanlove/robocon2021-banners/tree/master/facebook#robocon2021-banners-for-facebook"><img alt="Facebook" src="./doc/assets/img/f_logo_RGB-Blue_58.png" width="35px" height="35px" /></a>
 
-## [GitHub](./github/README.md) <a href="./github/README.md"><img alt="Github" src="./doc/assets/img/GitHub-Mark-120px-plus.png" width="35px" height="35px"/></a>
+## [GitHub](https://github.com/emanlove/robocon2021-banners/tree/master/github#robocon2021-banners-for-github) <a href="https://github.com/emanlove/robocon2021-banners/tree/master/github#robocon2021-banners-for-github"><img alt="Github" src="./doc/assets/img/GitHub-Mark-120px-plus.png" width="35px" height="35px"/></a>
 
-## [LinkedIn](./linkedin/README.md)
+## [LinkedIn](https://github.com/emanlove/robocon2021-banners/tree/master/linkedin#robocon2021-banners-for-linkedin)
 
 ## [iPhone](./iPhone)
 

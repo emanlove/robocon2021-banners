@@ -1,6 +1,6 @@
 ## RoboCon2021 Banners for Github
 
-Here are some banners for your Github profile page. Github has a somewhat secret, or at least not widely know, profile page customization. If your account has a repository as the same name as the account, its README.md will display on the profile page of the account.
+Here are some banners for your Github profile page. Github has a somewhat secret, or at least not widely known, profile page customization. If your account has a repository as the same name as the account, its README.md will display on the profile page of the account.
 
 Here is an example:
 

@@ -4,7 +4,7 @@ Here are some banners for your social media sites to help spread the word and gi
 
 [![](https://github.com/emanlove/robocon2021-banners/blob/master/doc/assets/img/Twitter%20social%20icons%20-%20circle%20-%20blue.png)](./twitter/README.md) [Twitter](./twitter/README.md)
 
-<img alt="Facebook" src="./doc/assets/img/f_logo_RGB-Blue_58.png" width="35px" height="35px"> ###[Facebook](./facebook/README.md)
+ ###[Facebook](./facebook/README.md) <img alt="Facebook" src="./doc/assets/img/f_logo_RGB-Blue_58.png" width="35px" height="35px">
 
 <img alt="Github" src="./doc/assets/img/GitHub-Mark-120px-plus.png">[GitHub](./github/README.md)
 

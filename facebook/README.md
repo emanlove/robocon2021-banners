@@ -2,6 +2,8 @@
 
 Here are some banners for Facebook cover photo
 
+If your profile picture covers up the background, you can [move the profile picture](https://www.facebook.com/help/146846195386449).
+
 #### Size Guideline
 From [Facebook Help](https://www.facebook.com/help/125379114252045) ..
 
